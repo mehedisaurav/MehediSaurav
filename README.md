@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mehedisaurav@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mehedisaurav/MehediSaurav/blob/main/Mehedi%20Saurav.pdf](https://github.com/mehedisaurav/MehediSaurav/blob/main/Mehedi%20Saurav.pdf)
+- 📄 Know about my experiences [https://github.com/mehedisaurav/MehediSaurav/blob/main/Mehedi%20Saurav%20.pdf](https://github.com/mehedisaurav/MehediSaurav/blob/main/Mehedi%20Saurav%20.pdf)
 
 - ⚡ Fun fact **Jokes :)**
 
