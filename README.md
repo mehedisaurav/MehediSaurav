@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm mehedi saurav</h1>
 <h3 align="center">A .Net Developer as well as full stack developer in Bangladesh.</h3>
 
-- 🔭 I’m currently working on [Cheque Processing Suite(CPS)](https://cps.emediadesk.net/)
+- 🔭 I’m currently working on <strong>Soft</strong> 
 
-- 🌱 I’m currently learning **Asp .Net Core, Angular,MSSQL, Azure, Python, Data Analysis**
+- 🌱 I’m currently learning **Asp .Net Core, Angular, MSSQL, Azure, Python, Data Analysis**
 
 - 💬 Ask me about **Asp .Net, Angular**
 
