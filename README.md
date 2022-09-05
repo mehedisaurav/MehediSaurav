@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cheque Processing Suite(CPS)](https://cps.emediadesk.net/)
 
-- 🌱 I’m currently learning **Asp .Net Core, Angular, Python, Data Analysis**
+- 🌱 I’m currently learning **Asp .Net Core, Angular,MSSQL, Azure, Python, Data Analysis**
 
 - 💬 Ask me about **Asp .Net, Angular**
 
