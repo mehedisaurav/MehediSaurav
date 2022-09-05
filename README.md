@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm mehedi saurav</h1>
-<h3 align="center">A .Net Developer as well as full stack developer in Bangladesh.</h3>
-
+<h3 align="center">A full stack .Net Developer in Bangladesh.</h3>
+<p><img align="center" style="width:70%; float:right;" src="https://github.com/mehedisaurav/MehediSaurav/blob/main/programmer.gif" alt="mehedisaurav" />
+</p>
 - 🔭 I’m currently working on <strong>Software Development</strong>
 
-- 🌱 I’m currently learning **Asp .Net Core, Angular, MSSQL, Azure, Python, Data Analysis**
+- 🌱 I’m currently working **Asp .Net Core, Angular, MSSQL, Azure **
 
-- 💬 Ask me about **Asp .Net, Angular**
+- 💬 Ask me about **Asp .Net, Angular, MS SQL, Azure DevOps**
 
 - 📫 How to reach me **mehedisaurav@gmail.com**
 
