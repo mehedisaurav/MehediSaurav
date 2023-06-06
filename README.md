@@ -28,4 +28,3 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedisaurav&show_icons=true&theme=merko" alt="mehedisaurav" />
 </p>
-//<a href="https://app.daily.dev/MehediSaurav"><img src="https://api.daily.dev/devcards/e119f1632145452ea6afbe263c2789ca.png?r=vpa" width="400" alt="Mehedi Islam's Dev Card"/></a>
