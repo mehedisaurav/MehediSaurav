@@ -28,3 +28,21 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedisaurav&show_icons=true&theme=merko" alt="mehedisaurav" />
 </p>
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mehedi saurav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehedi-saurav-85a9b360) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehedisaurav&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehedisaurav&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedisaurav&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mehedisaurav&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mehedisaurav&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
